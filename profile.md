@@ -1,0 +1,4 @@
+-	Daniel Bintang Augustian
+-	2313020288 - main game 
+-	next js 
+-	pengembang perangkat lunak 
