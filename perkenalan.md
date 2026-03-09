@@ -1,0 +1,1 @@
+Daniel Bintang Augustian, 2313020288, Teknik Informatika, fron end development,untuk memahami proses pengembangan perangkat lunak. 
